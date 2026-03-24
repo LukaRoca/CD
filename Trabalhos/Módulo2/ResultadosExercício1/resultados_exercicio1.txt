@@ -1,0 +1,93 @@
+=== RESULTADOS DA ANÁLISE DE FONTES DE SÍMBOLOS ===
+
+--- Ficheiro: a.txt ---
+Total de símbolos: 162
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.141975
+Informação própria: 2.816288 bits
+Entropia da fonte: 4.855812 bits/símbolo
+
+--- Ficheiro: alice29.txt ---
+Total de símbolos: 152090
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.190026
+Informação própria: 2.395734 bits
+Entropia da fonte: 4.567666 bits/símbolo
+
+--- Ficheiro: arrays.kt ---
+Total de símbolos: 4237
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.341751
+Informação própria: 1.548982 bits
+Entropia da fonte: 4.337486 bits/símbolo
+
+--- Ficheiro: barries.jpg ---
+Total de símbolos: 59507
+Símbolo mais frequente: 0 (Hex: 0x00)
+Probabilidade: 0.008621
+Informação própria: 6.857957 bits
+Entropia da fonte: 7.968661 bits/símbolo
+
+--- Ficheiro: barries.tif ---
+Total de símbolos: 1339526
+Símbolo mais frequente: 244 (Hex: 0xf4)
+Probabilidade: 0.012018
+Informação própria: 6.378608 bits
+Entropia da fonte: 7.649391 bits/símbolo
+
+--- Ficheiro: bird.gif ---
+Total de símbolos: 47516
+Símbolo mais frequente: 2 (Hex: 0x02)
+Probabilidade: 0.009281
+Informação própria: 6.751491 bits
+Entropia da fonte: 7.894407 bits/símbolo
+
+--- Ficheiro: cp.htm ---
+Total de símbolos: 24603
+Símbolo mais frequente: 101 ('e')
+Probabilidade: 0.061131
+Informação própria: 4.031958 bits
+Entropia da fonte: 5.229137 bits/símbolo
+
+--- Ficheiro: fibonacci.kt ---
+Total de símbolos: 1181
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.234547
+Informação própria: 2.092051 bits
+Entropia da fonte: 4.792887 bits/símbolo
+
+--- Ficheiro: lena.bmp ---
+Total de símbolos: 66614
+Símbolo mais frequente: 155 (Hex: 0x9b)
+Probabilidade: 0.010899
+Informação própria: 6.519712 bits
+Entropia da fonte: 7.458759 bits/símbolo
+
+--- Ficheiro: maximumSubarray.kt ---
+Total de símbolos: 1911
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.278388
+Informação própria: 1.844830 bits
+Entropia da fonte: 4.456704 bits/símbolo
+
+--- Ficheiro: person.java ---
+Total de símbolos: 6538
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.275467
+Informação própria: 1.860051 bits
+Entropia da fonte: 4.459060 bits/símbolo
+
+--- Ficheiro: progc.c ---
+Total de símbolos: 39612
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.174846
+Informação própria: 2.515843 bits
+Entropia da fonte: 5.198948 bits/símbolo
+
+--- Ficheiro: view.kt ---
+Total de símbolos: 3895
+Símbolo mais frequente: 32 (' ')
+Probabilidade: 0.219512
+Informação própria: 2.187627 bits
+Entropia da fonte: 5.020491 bits/símbolo
+

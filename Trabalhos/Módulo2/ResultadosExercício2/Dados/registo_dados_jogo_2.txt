@@ -1,0 +1,48 @@
+=== JOGO DE DADOS #2 (10 Jogadas) ===
+
+--- Jogada 1 ---
+  Jogador A lançou [2, 4] (soma: 6). 
+  Jogador B lançou [6, 2] (soma: 8). 
+
+--- Jogada 2 ---
+  Jogador A lançou [6, 1] (soma: 7). 
+  Jogador B lançou [6, 1] (soma: 7). 
+
+--- Jogada 3 ---
+  Jogador A lançou [2, 6] (soma: 8). 
+  Jogador B lançou [3, 6] (soma: 9). 
+
+--- Jogada 4 ---
+  Jogador A lançou [2, 3] (soma: 5). 
+  Jogador B lançou [3, 5] (soma: 8). 
+
+--- Jogada 5 ---
+  Jogador A lançou [6, 3] (soma: 9). 
+  Jogador B lançou [6, 4] (soma: 10). 
+
+--- Jogada 6 ---
+  Jogador A lançou [2, 1] (soma: 3). 
+  Jogador B lançou [2, 6] (soma: 8). 
+
+--- Jogada 7 ---
+  Jogador A lançou [2, 5] (soma: 7). 
+  Jogador B lançou [6, 6] (soma: 12). DUPLOS! Tem direito a jogar de novo.
+  Jogador B lançou [3, 4] (soma: 7). 
+
+--- Jogada 8 ---
+  Jogador A lançou [6, 1] (soma: 7). 
+  Jogador B lançou [1, 1] (soma: 2). DUPLOS! Tem direito a jogar de novo.
+  Jogador B lançou [3, 2] (soma: 5). 
+
+--- Jogada 9 ---
+  Jogador A lançou [3, 6] (soma: 9). 
+  Jogador B lançou [4, 5] (soma: 9). 
+
+--- Jogada 10 ---
+  Jogador A lançou [4, 3] (soma: 7). 
+  Jogador B lançou [1, 4] (soma: 5). 
+
+=== RESULTADO FINAL ===
+Pontuação Total Jogador A: 68
+Pontuação Total Jogador B: 90
+-> VENCEDOR: Jogador B!

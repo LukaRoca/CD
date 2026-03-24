@@ -1,0 +1,52 @@
+=== JOGO DE DADOS #1 (10 Jogadas) ===
+
+--- Jogada 1 ---
+  Jogador A lançou [6, 6] (soma: 12). DUPLOS! Tem direito a jogar de novo.
+  Jogador A lançou [2, 2] (soma: 4). DUPLOS! Tem direito a jogar de novo.
+  Jogador A lançou [1, 1] (soma: 2). DUPLOS! Tem direito a jogar de novo.
+  Jogador A lançou [4, 1] (soma: 5). 
+  Jogador B lançou [2, 4] (soma: 6). 
+
+--- Jogada 2 ---
+  Jogador A lançou [3, 2] (soma: 5). 
+  Jogador B lançou [5, 5] (soma: 10). DUPLOS! Tem direito a jogar de novo.
+  Jogador B lançou [4, 6] (soma: 10). 
+
+--- Jogada 3 ---
+  Jogador A lançou [5, 6] (soma: 11). 
+  Jogador B lançou [6, 3] (soma: 9). 
+
+--- Jogada 4 ---
+  Jogador A lançou [4, 4] (soma: 8). DUPLOS! Tem direito a jogar de novo.
+  Jogador A lançou [1, 3] (soma: 4). 
+  Jogador B lançou [3, 2] (soma: 5). 
+
+--- Jogada 5 ---
+  Jogador A lançou [3, 6] (soma: 9). 
+  Jogador B lançou [4, 6] (soma: 10). 
+
+--- Jogada 6 ---
+  Jogador A lançou [5, 3] (soma: 8). 
+  Jogador B lançou [2, 1] (soma: 3). 
+
+--- Jogada 7 ---
+  Jogador A lançou [3, 4] (soma: 7). 
+  Jogador B lançou [4, 6] (soma: 10). 
+
+--- Jogada 8 ---
+  Jogador A lançou [6, 4] (soma: 10). 
+  Jogador B lançou [6, 2] (soma: 8). 
+
+--- Jogada 9 ---
+  Jogador A lançou [2, 2] (soma: 4). DUPLOS! Tem direito a jogar de novo.
+  Jogador A lançou [3, 2] (soma: 5). 
+  Jogador B lançou [1, 6] (soma: 7). 
+
+--- Jogada 10 ---
+  Jogador A lançou [4, 1] (soma: 5). 
+  Jogador B lançou [4, 6] (soma: 10). 
+
+=== RESULTADO FINAL ===
+Pontuação Total Jogador A: 99
+Pontuação Total Jogador B: 88
+-> VENCEDOR: Jogador A!

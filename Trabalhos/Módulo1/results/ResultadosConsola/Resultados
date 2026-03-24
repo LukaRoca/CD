@@ -1,0 +1,52 @@
+--- Tests for (a) ---
+(a) Multiples of 6 between 3 and 9: [6]
+(a) Multiples of 6 between 5 and 25: [6, 12, 18, 24]
+(a) Multiples of 6 between 12 and 144: [12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78, 84, 90, 96, 102, 108, 114, 120, 126, 132, 138, 144]
+
+--- Tests for (b) ---
+(b) LCM of 4 and 6 is: 12
+(b) LCM of 15 and 20 is: 60
+(b) LCM of 7 and 13 is: 91
+
+--- Tests for (c) ---
+(c) Arithmetic Progression (N=5, u=2, r=3): [2, 5, 8, 11, 14]
+(c) Arithmetic Progression (N=10, u=0, r=5): [0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
+(c) Arithmetic Progression (N=4, u=10, r=-2): [10, 8, 6, 4]
+
+--- Tests for (d) ---
+(d) Eq: 1x^2 + -5x + 6 = 0 -> Real and distinct roots: 3.00 and 2.00
+(d) Eq: 1x^2 + -4x + 4 = 0 -> Real double root: 2.00
+(d) Eq: 1x^2 + 1x + 5 = 0 -> No real roots.
+
+--- Tests for (e) ---
+(e) Vector [1.5, 2.5, 3.5, 2.5, 5.0] -> Min: 1.5, Max: 5.0, Mean: 3.00, Mode: 2.5
+(e) Vector [10, 20, 30, 40, 50, 30] -> Min: 10, Max: 50, Mean: 30.00, Mode: 30
+(e) Vector [0.1, 0.1, 0.9, 0.5] -> Min: 0.1, Max: 0.9, Mean: 0.40, Mode: 0.1
+
+--- Tests for (f) ---
+(f) Intersection of [1, 2, 3, 4] and [3, 4, 5, 6]: [3, 4]
+(f) Intersection of [10, 20] and [30, 40]: []
+(f) Intersection of [5, 5, 1] and [5, 2]: [5]
+
+--- Tests for (g) ---
+(g) Union of [1, 2, 3] and [3, 4, 5]: [1, 2, 3, 4, 5]
+(g) Union of [10, 10] and [20, 20]: [10, 20]
+(g) Union of [] and [1, 2]: [1, 2]
+
+--- Tests for (h) ---
+(h) Input test_file_1.txt: Most Frequent='A', Entropy=3.0000
+(h) Output output_file_1.txt: Most Frequent='4', Entropy=3.0000
+(h) Input test_file_2.txt: Most Frequent='A', Entropy=1.4855
+(h) Output output_file_2.txt: Most Frequent='A', Entropy=1.4855
+(h) Input test_file_3.txt: Most Frequent='n', Entropy=3.7835
+(h) Output output_file_3.txt: Most Frequent='n', Entropy=3.7835
+
+--- Tests for (i) ---
+(i) File test_file_1.txt: Most Frequent='A', Entropy=3.0000
+(i) File test_file_2.txt: Most Frequent='A', Entropy=1.4855
+(i) File test_file_3.txt: Most Frequent='n', Entropy=3.7835
+
+--- Tests for (j) ---
+(j) File test_file_1.txt: Entropy=3.0000. Generating histogram...
+(j) File test_file_2.txt: Entropy=1.4855. Generating histogram...
+(j) File test_file_3.txt: Entropy=3.7835. Generating histogram...
